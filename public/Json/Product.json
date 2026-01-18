@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "title": "Girls Round Neck Cotton Top",
+    "price": 24,
+    "category": "kids",
+    "segment": "topwear",
+    "image_url": "https://images.unsplash.com/photo-1719408386140-5fbac6ffdcbd?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_link": "https://example.com/kids/girls-round-neck-cotton-top"
+  },
+  {
+    "id": 2,
+    "title": "Girls Floral Summer Dress",
+    "price": 32,
+    "category": "kids",
+    "segment": "bottmwear",
+    "image_url": "https://images.unsplash.com/photo-1656424692994-736ccef90d8e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_link": "https://example.com/kids/girls-floral-summer-dress"
+  },
+  {
+    "id": 3,
+    "title": "White t-shirt",
+    "price": 45,
+    "category": "men",
+    "segment": "topweare",
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=600&q=80&fm=webp",
+    "product_link": "https://example.com/kids/denim-jacket"
+  },
+  {
+    "id": 4,
+    "title": "Girls Casual t-shirt",
+    "price": 38,
+    "category": "women",
+    "segment": "topwear",
+    "image_url": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=600&q=80&fm=webp",
+    "product_link": "https://example.com/kids/girls-hoodie"
+  },
+  {
+    "id": 5,
+    "title": " kids Printed T-Shirt",
+    "price": 18,
+    "category": "kids",
+    "segment": "topwear",
+    "image_url": "https://images.unsplash.com/photo-1699901232413-9754207c2ac8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_link": "https://example.com/kids/printed-tshirt"
+  },
+  {
+    "id": 6,
+    "title": "Groun",
+    "price": 29,
+    "category": "women",
+    "segment": "topwear",
+    "image_url": "https://images.pexels.com/photos/5325880/pexels-photo-5325880.jpeg?auto=compress&cs=tinysrgb&w=600&fm=webp",
+    "product_link": "https://example.com/kids/pajama-set"
+  },
+  {
+    "id": 7,
+    "title": "Girls t-shirt",
+    "price": 55,
+    "category": "women",
+    "segment": "topwear",
+    "image_url": "https://images.unsplash.com/photo-1618354691438-25bc04584c23?auto=format&fit=crop&w=600&q=80&fm=webp",
+    "product_link": "https://example.com/kids/party-frock"
+  },
+  {
+    "id": 8,
+    "title": "Girls Full Sleeve Top",
+    "price": 26,
+    "category": "women",
+    "segment": "topwear",
+    "image_url": "https://images.unsplash.com/photo-1485462537746-965f33f7f6a7?auto=format&fit=crop&w=600&q=80&fm=webp",
+    "product_link": "https://example.com/kids/full-sleeve-top"
+  },
+  {
+    "id": 9,
+    "title": "Kids Winter Sweater",
+    "price": 42,
+    "category": "kids",
+    "segment": "winterwear",
+    "image_url": "https://plus.unsplash.com/premium_photo-1663099757175-d84fbef799c5?q=80&w=1253&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_link": "https://example.com/kids/winter-sweater"
+  },
+  {
+    "id": 10,
+    "title": "Girls Casual Jeans",
+    "price": 35,
+    "category": "women",
+    "segment": "bottomwear",
+    "image_url": "https://images.unsplash.com/photo-1734453195022-b0cbc53229ee?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_link": "https://example.com/kids/girls-jeans"
+  },
+  {
+    "id": 11,
+    "title": "Girls Cotton Shorts",
+    "price": 20,
+    "category": "kids",
+    "segment": "bottomwear",
+    "image_url": "https://images.unsplash.com/photo-1578897367107-2828e351c8a8?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_link": "https://example.com/kids/cotton-shorts"
+  },
+  {
+    "id": 12,
+    "title": "one pice grown",
+    "price": 16,
+    "category": "women",
+    "segment": "topwear",
+    "image_url": "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?auto=format&fit=crop&w=600&q=80&fm=webp",
+    "product_link": "https://example.com/kids/sleeveless-top"
+  },
+  {
+    "id": 13,
+    "title": "Girls Printed Leggings",
+    "price": 22,
+    "category": "women",
+    "segment": "bottomwear",
+    "image_url": "https://images.unsplash.com/photo-1641808895412-8d0464f08e02?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_link": "https://example.com/kids/printed-leggings"
+  },
+  {
+    "id": 14,
+    "title": "shirt for men",
+    "price": 40,
+    "category": "men",
+    "segment": "topwear",
+    "image_url": "https://images.unsplash.com/photo-1607345366928-199ea26cfe3e?auto=format&fit=crop&w=600&q=80&fm=webp",
+    "product_link": "https://example.com/kids/ethnic-kurti"
+  },
+  {
+    "id": 15,
+    "title": "Kids Night Wear Dress",
+    "price": 27,
+    "category": "kids",
+    "segment": "topwear",
+    "image_url": "https://images.unsplash.com/photo-1700751616156-ba145cb021eb?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_link": "https://example.com/kids/night-wear"
+  },
+  {
+    "id": 16,
+    "title": "Girls Casual jacket",
+    "price": 30,
+    "category": "women",
+    "segment": "topwear",
+    "image_url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=600&q=80&fm=webp",
+    "product_link": "https://example.com/kids/casual-skirt"
+  },
+  {
+    "id": 17,
+    "title": "Girls full set",
+    "price": 28,
+    "category": "women",
+    "segment": "topwear",
+    "image_url": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=600&q=80&fm=webp",
+    "product_link": "https://example.com/kids/checked-shirt"
+  },
+  {
+    "id": 18,
+    "title": "girls white t-shirt",
+    "price": 48,
+    "category": "women",
+    "segment": "topwear",
+    "image_url": "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?auto=format&fit=crop&w=600&q=80&fm=webp",
+    "product_link": "https://example.com/kids/tracksuit"
+  },
+  {
+    "id": 19,
+    "title": "Girls Summer Jumpsuit",
+    "price": 36,
+    "category": "women",
+    "segment": "topwear",
+    "image_url": "https://images.unsplash.com/photo-1759476530674-87096e42e5e8?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_link": "https://example.com/kids/jumpsuit"
+  },
+  {
+    "id": 20,
+    "title": "Kids Casual Frock",
+    "price": 34,
+    "category": "kids",
+    "segment": "partywear",
+    "image_url": "https://images.unsplash.com/photo-1653686933006-249b035f9ee0?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_link": "https://example.com/kids/casual-frock"
+  },
+  {
+    "id": 21,
+    "title": "Girls track sute",
+    "price": 60,
+    "category": "women",
+    "segment": "topwear",
+    "image_url": "https://images.pexels.com/photos/6311387/pexels-photo-6311387.jpeg?auto=compress&cs=tinysrgb&w=600&fm=webp",
+    "product_link": "https://example.com/kids/fancy-dress"
+  },
+  {
+    "id": 22,
+    "title": "Kids Cotton Shirt",
+    "price": 25,
+    "category": "kids",
+    "segment": "topwear",
+    "image_url": "https://images.unsplash.com/photo-1754639488181-7eae9f6c06e0?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_link": "https://example.com/kids/cotton-shirt"
+  },
+  {
+    "id": 23,
+    "title": "Girls Casual Top",
+    "price": 21,
+    "category": "women",
+    "segment": "topwear",
+    "image_url": "https://images.unsplash.com/photo-1687610466676-88fa9cfc1206?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_link": "https://example.com/kids/casual-top"
+  },
+  {
+    "id": 24,
+    "title": "Kids Party Dress",
+    "price": 52,
+    "category": "kids",
+    "segment": "winterweare",
+    "image_url": "https://images.unsplash.com/photo-1627773781822-2b00fdbcc5ed?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_link": "https://example.com/kids/party-dress"
+  },
+  {
+    "id": 25,
+    "title": "Girls Cotton swatshirt",
+    "price": 37,
+    "category": "women",
+    "segment": "winterweare",
+    "image_url": "https://images.pexels.com/photos/6311655/pexels-photo-6311655.jpeg?auto=compress&cs=tinysrgb&w=600&fm=webp",
+    "product_link": "https://example.com/kids/cotton-kurta"
+  },
+  {
+    "id": 26,
+    "title": " Casual Wear Set",
+    "price": 44,
+    "category": "men",
+    "segment": "winterweare",
+    "image_url": "https://images.unsplash.com/photo-1520975661595-6453be3f7070?auto=format&fit=crop&w=600&q=80&fm=webp",
+    "product_link": "https://example.com/kids/casual-set"
+  },
+  {
+    "id": 27,
+    "title": "Girls Soft Cotton jacket",
+    "price": 33,
+    "category": "kids",
+    "segment": "topwear",
+    "image_url": "https://images.pexels.com/photos/7139845/pexels-photo-7139845.jpeg?auto=compress&cs=tinysrgb&w=600&fm=webp",
+    "product_link": "https://example.com/kids/soft-cotton-dress"
+  },
+  {
+    "id": 28,
+    "title": "Kids Designer Frock",
+    "price": 58,
+    "category": "kids",
+    "segment": "bottomwear",
+    "image_url": "https://images.unsplash.com/photo-1739660223486-61e43b4105e9?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_link": "https://example.com/kids/designer-frock"
+  },
+  {
+    "id": 29,
+    "title": "Girls Winter Dress",
+    "price": 49,
+    "category": "women",
+    "segment": "winterwear",
+    "image_url": "https://images.unsplash.com/photo-1642524293426-717bd2c1d111?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_link": "https://example.com/kids/winter-dress"
+  },
+  {
+    "id": 30,
+    "title": "denim jacket",
+    "price": 28,
+    "category": "men",
+    "segment": "topwear",
+    "image_url": "https://images.unsplash.com/photo-1611312449408-fcece27cdbb7?q=80&w=669&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_link": "https://example.com/kids/daily-wear"
+  },
+  {
+    "id": 31,
+    "title": "Girls Stylish Top",
+    "price": 23,
+    "category": "women",
+    "segment": "topwear",
+    "image_url": "https://images.unsplash.com/photo-1602764475980-6aca6515dd14?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_link": "https://example.com/kids/stylish-top"
+  },
+  {
+    "id": 32,
+    "title": "men jeans",
+    "price": 41,
+    "category": "men",
+    "segment": "bottomwear",
+    "image_url": "https://plus.unsplash.com/premium_photo-1688497831535-120bd47d9f9c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_link": "https://example.com/kids/trendy-dress"
+  },
+  {
+    "id": 33,
+    "title": "Girls Cotton Gown",
+    "price": 46,
+    "category": "kids",
+    "segment": "topwear",
+    "image_url": "https://images.pexels.com/photos/7139866/pexels-photo-7139866.jpeg?auto=compress&cs=tinysrgb&w=600&fm=webp",
+    "product_link": "https://example.com/kids/cotton-gown"
+  },
+  {
+    "id": 34,
+    "title": "Kids Casual Outfit",
+    "price": 39,
+    "category": "kids",
+    "segment": "winterwear",
+    "image_url": "https://images.unsplash.com/photo-1758782213532-bbb5fd89885e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_link": "https://example.com/kids/casual-outfit"
+  },
+  {
+    "id": 35,
+    "title": "Girls yoga Dress",
+    "price": 31,
+    "category": "women",
+    "segment": "topwear",
+    "image_url": "https://images.pexels.com/photos/6311625/pexels-photo-6311625.jpeg?auto=compress&cs=tinysrgb&w=600&fm=webp",
+    "product_link": "https://example.com/kids/printed-dress"
+  },
+  {
+    "id": 36,
+    "title": "Kids Soft Fabric Dress",
+    "price": 35,
+    "category": "kids",
+    "segment": "topwear",
+    "image_url": "https://images.unsplash.com/photo-1620774760711-caa4c94d683a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_link": "https://example.com/kids/soft-fabric-dress"
+  },
+  {
+    "id": 37,
+    "title": "Girls Modern Top",
+    "price": 22,
+    "category": "women",
+    "segment": "topwear",
+    "image_url": "https://images.unsplash.com/photo-1552954277-a32bc2de3c38?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_link": "https://example.com/kids/modern-top"
+  },
+  {
+    "id": 38,
+    "title": "Kids Stylish Frock",
+    "price": 47,
+    "category": "kids",
+    "segment": "bottomwear",
+    "image_url": "https://images.pexels.com/photos/7139874/pexels-photo-7139874.jpeg?auto=compress&cs=tinysrgb&w=600&fm=webp",
+    "product_link": "https://example.com/kids/stylish-frock"
+  },
+  {
+    "id": 39,
+    "title": "gray t-shirt",
+    "price": 34,
+    "category": "men",
+    "segment": "topwear",
+    "image_url": "https://images.unsplash.com/photo-1552642986-ccb41e7059e7?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_link": "https://example.com/kids/summer-dress"
+  },
+  {
+    "id": 40,
+    "title": "stylish hoodies for men",
+    "price": 26,
+    "category": "men",
+    "segment": "topwear",
+    "image_url": "https://images.unsplash.com/photo-1738486260136-2db6e4d6202d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "product_link": "https://example.com/kids/everyday-wear"
+  }
+]

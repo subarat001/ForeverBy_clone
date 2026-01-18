@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Prata&display=swap");
+
+#latest_title {
+  font-family: "Prata", serif;
+}
+
+.active {
+  color: red;
+  
+}
