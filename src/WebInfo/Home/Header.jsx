@@ -51,7 +51,7 @@ export default function () {
           {/* right area for model  */}
 
           <div id="right_area" className="sm:w-[50%]">
-            <img src=".\public\images\heroImg\hero_img.png" alt="" />
+            <img src="\images\heroImg\hero_img.png" alt="" />
           </div>
         </div>
       </div>

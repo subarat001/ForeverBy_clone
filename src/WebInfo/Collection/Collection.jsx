@@ -12,25 +12,24 @@ export default function Collection() {
   const [b, setB] = useState(false);
   const [v, setV] = useState(false);
 
-  let res = coll.filter(
-    (item) =>
-      (m && item.category == "men") ||
-      (w && item.category == "women") ||
-      (k && item.category == "kids") ||
-      (!m && !w && !k)
-  ).filter( (item) =>
-      (t && item.segment == "topwear") ||
-      (v && item.segment == "winterweare") ||
-      (b && item.segment == "bottomwear") ||
-      (!t && !v && !b)
-  )
-
-
-
-
+  let res = coll
+    .filter(
+      (item) =>
+        (m && item.category == "men") ||
+        (w && item.category == "women") ||
+        (k && item.category == "kids") ||
+        (!m && !w && !k),
+    )
+    .filter(
+      (item) =>
+        (t && item.segment == "topwear") ||
+        (v && item.segment == "winterweare") ||
+        (b && item.segment == "bottomwear") ||
+        (!t && !v && !b),
+    );
 
   useEffect(() => {
-    fetch("./public/Json/Product.json")
+    fetch("/Json/Product.json")
       .then((res) => res.json())
       .then((dta) => setcoll(dta))
       .catch((err) => console.log("err found in feth during product api "));
@@ -54,13 +53,13 @@ export default function Collection() {
                   <p className="font-semibold mb-3">CATEGORIES</p>
                   <div className="space-y-2 text-sm">
                     <label className="flex gap-2">
-                      <input type="checkbox" /> Men
+                      <input type="checkbox" onChange={() => setM(!m)} /> Men
                     </label>
                     <label className="flex gap-2">
-                      <input type="checkbox" /> Women
+                      <input type="checkbox" onChange={() => setW(!w)} /> Women
                     </label>
                     <label className="flex gap-2">
-                      <input type="checkbox" /> Kids
+                      <input type="checkbox" onChange={() => setK(!k)} /> Kids
                     </label>
                   </div>
                 </div>
@@ -70,13 +69,16 @@ export default function Collection() {
                   <p className="font-semibold mb-3">TYPE</p>
                   <div className="space-y-2 text-sm">
                     <label className="flex gap-2">
-                      <input type="checkbox" /> Topwear
+                      <input type="checkbox" onChange={() => setT(!t)} />{" "}
+                      Topwear
                     </label>
                     <label className="flex gap-2">
-                      <input type="checkbox" /> Bottomwear
+                      <input type="checkbox" onChange={() => setB(!b)} />{" "}
+                      Bottomwear
                     </label>
                     <label className="flex gap-2">
-                      <input type="checkbox" /> Winterwear
+                      <input type="checkbox" onChange={() => setV(!v)} />{" "}
+                      Winterwear
                     </label>
                   </div>
                 </div>
@@ -108,13 +110,15 @@ export default function Collection() {
                 <p className="font-semibold mb-3">TYPE</p>
                 <div className="space-y-2 text-sm">
                   <label className="flex gap-2">
-                    <input type="checkbox"  onChange={() => setT(!t)}/> Topwear
+                    <input type="checkbox" onChange={() => setT(!t)} /> Topwear
                   </label>
                   <label className="flex gap-2">
-                    <input type="checkbox" onChange={() => setB(!b)}/> Bottomwear
+                    <input type="checkbox" onChange={() => setB(!b)} />{" "}
+                    Bottomwear
                   </label>
                   <label className="flex gap-2">
-                    <input type="checkbox" onChange={() => setV(!v)}/> Winterwear
+                    <input type="checkbox" onChange={() => setV(!v)} />{" "}
+                    Winterwear
                   </label>
                 </div>
               </div>

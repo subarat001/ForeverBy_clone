@@ -18,7 +18,7 @@ export default function Policy() {
           >
             <img
               className="w-13"
-              src=".\public\images\icons\energy.png"
+              src="\images\icons\energy.png"
               alt=""
             />
             <h1 className="text-[#374151] font-semibold ">
@@ -33,7 +33,7 @@ export default function Policy() {
           <div id="card2" className="flex flex-col justify-center items-center">
             <img
               className="w-13"
-              src=".\public\images\icons\tickmark.png"
+              src="\images\icons\tickmark.png"
               alt=""
             />
             <h1 className="text-[#374151] font-semibold ">
@@ -48,7 +48,7 @@ export default function Policy() {
           <div id="card3" className="flex flex-col justify-center items-center">
             <img
               className="w-13"
-              src=".\public\images\icons\headphone.png"
+              src="\images\icons\headphone.png"
               alt=""
             />
             <h1 className="text-[#374151] font-semibold ">

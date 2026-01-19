@@ -17,7 +17,7 @@ export default function AboutHeader() {
           {/* LEFT IMAGE */}
           <div className="w-full">
             <img
-              src="./public/images/aboutPg/about_img-BAJyTXw9.png"
+              src="/images/aboutPg/about_img-BAJyTXw9.png"
               alt="about"
               className="w-full h-full object-cover"
             />

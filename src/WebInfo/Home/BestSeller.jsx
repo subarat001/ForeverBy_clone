@@ -5,7 +5,7 @@ export default function BestSeller() {
   const [best, setbest] = useState([]);
 
   useEffect(() => {
-    fetch("./public/Json/BestSeller.json")
+    fetch("/Json/BestSeller.json")
       .then((res) => res.json())
       .then((data) => setbest(data))
       .catch((err) => console.log("error to fetch data from bestseller json"));
@@ -32,7 +32,7 @@ export default function BestSeller() {
               <h1>seller</h1>
               {/* line font of title  */}
               <div
-                className=" absolute sm:w-15 w-8 border-b border-2 sm:top-5 sm:left-45 top-3 left-30"
+                className=" absolute sm:w-15 w-5 border-b border-2 sm:top-5 sm:left-45 top-3 left-35"
                 id="line1"
               ></div>
             </div>

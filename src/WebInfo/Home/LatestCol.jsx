@@ -5,7 +5,7 @@ export default function LatestCol() {
   const [Data, setdata] = useState([]);
 
   useEffect(() => {
-    fetch("./public/Json/Latest.json")
+    fetch("/Json/Latest.json")
       .then((res) => res.json())
       .then((data) => setdata(data))
       .catch((err) => console.error("JSON Fetch Error:", err));
@@ -33,7 +33,7 @@ export default function LatestCol() {
               <h1>collections</h1>
               {/* line font of title  */}
               <div
-                className=" absolute sm:w-15 w-8 border-b border-2 sm:top-5 sm:left-75 top-3 left-50"
+                className=" absolute sm:w-15 w-6 border-b border-2 sm:top-5 sm:left-75 top-3 left-55"
                 id="line"
               ></div>
             </div>
