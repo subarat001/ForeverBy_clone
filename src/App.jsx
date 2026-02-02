@@ -8,23 +8,28 @@ import Collection from "./WebInfo/Collection/Collection";
 import ProductDetail from "./WebInfo/ProductDetail";
 import About from "./WebInfo/About/About";
 import ContactUs from "./WebInfo/Contact/ContactUs";
+import Cart from "./WebInfo/CartPage/Cart";
+import ContextInfo from "./WebInfo/ContextInfo";
 
 function App() {
   return (
     <>
-      <BrowserRouter>
-        <NavBar />
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/collection" element={<Collection />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/contact" element={<ContactUs/>} />
+      <ContextInfo>
+        <BrowserRouter>
+          <NavBar />
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/collection" element={<Collection />} />
+            <Route path="/about" element={<About />} />
+            <Route path="/contact" element={<ContactUs />} />
+            <Route path="/oncart" element={<Cart />} />
 
-          <Route path="/product/:id" element={<ProductDetail />}></Route>
-        </Routes>
+            <Route path="/product/:id" element={<ProductDetail />}></Route>
+          </Routes>
 
-        <Footer />
-      </BrowserRouter>
+          <Footer />
+        </BrowserRouter>
+      </ContextInfo>
     </>
   );
 }

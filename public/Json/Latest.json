@@ -5,6 +5,7 @@
     "price": 24,
     "category": "kids",
     "segment": "topwear",
+    "quantity": 0 ,
     "image_url": "https://images.unsplash.com/photo-1719408386140-5fbac6ffdcbd?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "product_link": "https://example.com/kids/girls-round-neck-cotton-top"
   },
@@ -14,6 +15,7 @@
     "price": 32,
     "category": "kids",
     "segment": "bottmwear",
+    "quantity": 0 ,
     "image_url": "https://images.unsplash.com/photo-1656424692994-736ccef90d8e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "product_link": "https://example.com/kids/girls-floral-summer-dress"
   },
@@ -23,6 +25,7 @@
     "price": 45,
     "category": "men",
     "segment": "topweare",
+    "quantity": 0 ,
     "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=600&q=80&fm=webp",
     "product_link": "https://example.com/kids/denim-jacket"
   },
@@ -32,6 +35,7 @@
     "price": 38,
     "category": "women",
     "segment": "topwear",
+    "quantity": 0 ,
     "image_url": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=600&q=80&fm=webp",
     "product_link": "https://example.com/kids/girls-hoodie"
   },
@@ -41,6 +45,7 @@
     "price": 18,
     "category": "kids",
     "segment": "topwear",
+    "quantity": 0 ,
     "image_url": "https://images.unsplash.com/photo-1699901232413-9754207c2ac8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "product_link": "https://example.com/kids/printed-tshirt"
   },
@@ -50,6 +55,7 @@
     "price": 29,
     "category": "women",
     "segment": "topwear",
+    "quantity": 0 ,
     "image_url": "https://images.pexels.com/photos/5325880/pexels-photo-5325880.jpeg?auto=compress&cs=tinysrgb&w=600&fm=webp",
     "product_link": "https://example.com/kids/pajama-set"
   },
@@ -59,6 +65,7 @@
     "price": 55,
     "category": "women",
     "segment": "topwear",
+    "quantity": 0 ,
     "image_url": "https://images.unsplash.com/photo-1618354691438-25bc04584c23?auto=format&fit=crop&w=600&q=80&fm=webp",
     "product_link": "https://example.com/kids/party-frock"
   },
@@ -68,6 +75,7 @@
     "price": 26,
     "category": "women",
     "segment": "topwear",
+    "quantity": 0 ,
     "image_url": "https://images.unsplash.com/photo-1485462537746-965f33f7f6a7?auto=format&fit=crop&w=600&q=80&fm=webp",
     "product_link": "https://example.com/kids/full-sleeve-top"
   },
@@ -77,6 +85,7 @@
     "price": 42,
     "category": "kids",
     "segment": "winterwear",
+    "quantity": 0 ,
     "image_url": "https://plus.unsplash.com/premium_photo-1663099757175-d84fbef799c5?q=80&w=1253&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "product_link": "https://example.com/kids/winter-sweater"
   },
@@ -86,6 +95,7 @@
     "price": 35,
     "category": "women",
     "segment": "bottomwear",
+    "quantity": 0 ,
     "image_url": "https://images.unsplash.com/photo-1734453195022-b0cbc53229ee?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "product_link": "https://example.com/kids/girls-jeans"
   }

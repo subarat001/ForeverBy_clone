@@ -1,5 +1,6 @@
-import React, { useEffect, useState } from "react";
+import React, { useContext, useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
+import { commoncontext } from "./ContextInfo";
 
 export default function ProductDetail() {
   const { id } = useParams();
@@ -11,6 +12,8 @@ export default function ProductDetail() {
       .then((dta) => setprod(dta))
       .catch((err) => console.log("err found in feth during product api "));
   }, []);
+
+  const { addToCart } = useContext(commoncontext);
 
   return (
     <>
@@ -73,7 +76,12 @@ export default function ProductDetail() {
                   </div>
 
                   {/* Add to Cart */}
-                  <button className="bg-black text-white px-8 py-3">
+                  <button
+                    onClick={() => {
+                      addToCart(elim);
+                    }}
+                    className="bg-black text-white px-8 py-3 cursor-pointer hover:scale-[1.02] transition-all active:scale-[0.99]"
+                  >
                     ADD TO CART
                   </button>
 

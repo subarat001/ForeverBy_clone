@@ -1,7 +1,10 @@
-import React, { useState } from "react";
+import React, { useContext, useState } from "react";
 import { BrowserRouter, Link, NavLink, Route, Routes } from "react-router-dom";
+import { commoncontext } from "./ContextInfo";
 export default function NavBar() {
   const [open, setOpen] = useState(false);
+  const { totalPrice } = useContext(commoncontext);
+
   return (
     <>
       <div id="navbar_area" className="flex sticky top-0 backdrop-blur-sm z-10">
@@ -59,15 +62,15 @@ export default function NavBar() {
 
             {/* shoping button */}
             <div id="shoping_btn" className=" relative">
-              <a href="#">
+              <Link to={"/oncart"}>
                 <img className="w-5" src="\images\icons\shoping.png" alt="" />
                 <div
                   id="shop_cout"
                   className=" absolute w-4 h-4  flex justify-center items-center rounded-full bg-black top-3 left-2 text-white text-xs"
                 >
-                  0
+                  {totalPrice}
                 </div>
-              </a>
+              </Link>
             </div>
 
             <div className="sm:hidden flex items-center gap-4">
